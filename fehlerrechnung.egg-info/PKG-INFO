@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: fehlerrechnung
+Version: 0.4
+Summary: Vereinfachung Fehlerrechnung mit Latex
+Author: Johannes Simonetto
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: summary
