@@ -1,9 +1,0 @@
-README.md
-setup.py
-fehlerrechnung/__init__.py
-fehlerrechnung/funktionen.py
-fehlerrechnung.egg-info/PKG-INFO
-fehlerrechnung.egg-info/SOURCES.txt
-fehlerrechnung.egg-info/dependency_links.txt
-fehlerrechnung.egg-info/requires.txt
-fehlerrechnung.egg-info/top_level.txt
