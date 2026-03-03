@@ -16,6 +16,6 @@ Wechsle in den Ordner, in dem das Paket liegt, und installiere es:
 
 
 
-cd /pfad/zu/fehlerrechnung
+cd /pfad/zum/paket
 pip install .
 
